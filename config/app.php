@@ -185,6 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Mhaka\Inspire\Providers\InspirationProvider::class,
 
         /*
          * Application Service Providers...

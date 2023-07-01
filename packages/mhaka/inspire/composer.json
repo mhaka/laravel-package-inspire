@@ -1,0 +1,19 @@
+{
+    "name": "mhaka/inspire",
+    "description": "\"My first package in laravel: Inspire\"",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mhaka\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhaka",
+            "email": "merlihaka@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
